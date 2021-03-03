@@ -1,0 +1,60 @@
+body{
+    padding:0;
+    margin:0;
+}
+.box1{
+    height:100vh;
+    width:100%;
+    background-image:url(pictures/p6.jpg);
+    background-position: center;
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+.box2{
+    height:100vh;
+    width:100%;
+    background-image:url(pictures/p2.jpg);
+    background-position: center;
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+.box3{
+    height:100vh;
+    width:100%;
+    background-image:url(pictures/p3.jpg);
+    background-position: center;
+    background-size:cover;
+    display:table;
+    background-attachment: fixed;
+}
+h1{
+    font-family: cursive;
+    font-size: 30px;
+    color:rgb(15, 11, 11);
+    margin:0px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+.navbar{
+    overflow:hidden;
+    float: right;
+    background-color: transparent;
+    position: fixed;
+
+
+}
+
+a{
+    float:right;
+    padding: 14px 12px;
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    
+}

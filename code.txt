@@ -1,0 +1,121 @@
+<html>
+    <head>
+        <title> A parallax effect</title>
+        <link rel="stylesheet" href="index.css">
+
+    </head>
+    <body>
+        <div> 
+            
+            <button type="button" id="log" name="login"><a href="login.html">Log in</a>
+            </button>
+            
+            <button type="button" id="signup" name="sign up"><a href="signup.html">Sign up</a></button>
+        </div>
+        <div class = "box1">
+            <h1> “To be a poet is a condition, not a profession.” — Robert Graves, in response to a questionnaire in Horizon, 1946.</h1>
+        </div>
+        <div class = "box2">
+            <h1> “The poet is the priest of the invisible.” — Wallace Stevens, from Opus Posthumous.</h1>
+        </div>
+        <div class = "box3">
+            <h1>"Write<br>
+                Your<br> 
+                Heart Away"<br>
+                ...Shadya... </h1>
+        </div>
+    </body>
+</html>
+
+
+
+
+
+body{
+    padding:0;
+    margin:0;
+}
+.box1{
+    height:100vh;
+    width:100%;
+    background-image:url(pictures/p6.jpg);
+    background-position: center;
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+.box2{
+    height:100vh;
+    width:100%;
+    background-image:url(pictures/p2.jpg);
+    background-position: center;
+    background-size: cover;
+    display: table;
+    background-attachment: fixed;
+}
+
+.box3{
+    height:100vh;
+    width:100%;
+    background-image:url(pictures/p3.jpg);
+    background-position: center;
+    background-size:cover;
+    display:table;
+    background-attachment: fixed;
+}
+h1{
+    font-family: cursive;
+    font-size: 30px;
+    color:rgb(15, 11, 11);
+    margin:0px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+.navbar{
+    overflow:hidden;
+    position: fixed;
+    background-color: transparent;
+
+}
+
+a{
+    float:right;
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    padding: 10px;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+button {
+    background-color: transparent;
+    color: rgb(0, 0, 0);
+    padding: 100px;
+    padding: 2px 20px;
+    margin: 0;
+    border-radius: 50px;
+    cursor: pointer;
+    width: 40%;
+    text-align: center;
+    
+    display: block;
+  }
+  #signup:hover{
+      background-color: tomato;
+      
+  }
+  #log{
+      float: left;
+  }
+  #log:hover{
+      background-color: teal;
+  }
+  #signup{
+    float: right;
+
+  }
+

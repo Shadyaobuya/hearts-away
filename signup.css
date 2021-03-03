@@ -1,0 +1,51 @@
+body{
+    background: url(pictures/pic3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 17px;
+
+}
+form{
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 100px;
+    padding: 20px;
+}
+
+#google{
+        background-color: 6B82B1;
+        color:FFFFFF;
+        padding: 2px 20px;
+        border-radius: 50px;
+        cursor: pointer;
+        width: 30%;
+        font-size: 15px;
+    
+      }
+    #signup{
+        background-color: 4AB955;
+        color:FFFFFF;
+        padding: 2px 20px;
+        border-radius: 50px;
+        cursor: pointer;
+        width: 30%;
+        font-size: 15px;
+    
+      }
+      #cancel{
+        background-color: F16957;
+        color:FFFFFF;
+        padding: 2px 20px;
+        border-radius: 50px;
+        cursor: pointer;
+        width: 30%;
+        font-size: 15px;
+      }
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+span{
+    color: 265ADB;
+}
