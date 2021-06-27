@@ -21,24 +21,12 @@ a{
     padding: 20px;
     font-size: 20px;
 }
-.center{
+p{
     text-align: center;
     font-family: cursive;
     font-size: 25px;
+    
 }
-.right{
-    float: right;
-    text-align: center;
-    font-family: cursive;
-    font-size: 25px;
-}
-.left{
-    float: left;
-    text-align: center;
-    font-family: cursive;
-    font-size: 25px;
-}
-
 
 
 

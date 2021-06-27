@@ -1,0 +1,129 @@
+<html>
+    <head>
+<link rel="Stylesheet"  href ="read.css">
+    </head>
+
+    <body>
+        <h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  
+    <p>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      
+    </p>
+    
+  </div>
+  <hr>
+  <div class="row">
+<p>
+    
+    The world was my play ground hello<br>
+      I sis the happy dance<br>
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+    </p>
+  </div>
+  <div class="row">
+    
+    <img src="pictures/rupi.jpg" style="width:100%">
+    The world was my play ground hello<br>
+      I sis the happy dance<br>
+
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy <a href="https://www.writeoutloud.net/public/blogentry.php?blogentryid=113044">Read More</a><br>
+      
+
+    
+  </div>
+  <br>
+
+  <div class="row">
+    
+    <img src="pictures/rupi1.jpg" style="width:100%">
+    The world was my play ground hello<br>
+      I sis the happy dance<br>
+
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy dance<br>
+      
+      The world was my play ground hello<br>
+      I sis the happy <a href="https://www.writeoutloud.net/public/blogentry.php?blogentryid=113044">Read More</a><br>
+      
+
+    
+  </div>
+
+
+
+
+
+
+
+
+    </body>
+</html>

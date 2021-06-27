@@ -1,0 +1,260 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+    
+  }
+  .row{
+      text-align: center;
+  }
+
+  img{
+      width: 40%;
+      height: 100%;
+  }
+  
+  
+  
+  
+  
+  
+  <div class="rows">
+
+         <div class="column">
+             <img src="pics/rose.jpg" style="width: 40%; height: 10%;"><br>
+             
+She went off to sleep<br>
+My love went off to sleep<br>
+Only this time, she won't be<br>
+ 
+smiling down at me when I wake<br>
+I think she finally gave up<br>
+
+Or the world made it it's mission<br>
+
+To rip my tender heart to shreds<span id="dots">...</span>
+<button onclick="myFunction()" id="myBtn">Read more</button><br>
+<div id="more">
+    
+She was finally laid to rest<br>
+My love was finally laid to rest<br>
+And she took with her all the happiness I knew<br>
+All the love I ever felt<br>
+She did however leave the pain and suffering<br>
+The world let me know that it was a token,<br>
+A token of what we shared<br>
+
+I wanted to wish my love  eternal peace<br>
+I wanted to be the last to throw down a rose<br>
+I wanted to go back home and believe,<br>
+she was dancing with the angels<br>
+But my demons kept reminding me that no peace exists<br>
+So instead I sent off my Angels to keep her company<br>
+She needed them more<br>
+
+
+
+</div>
+</div>
+
+<div class="column">
+    <img src="pics/rose2.jpg" style="width: 40%; height: 40%;"><br>
+    <b>Prisoners of Love</b> 
+    Love.....<br>
+    Such a mysterious phenomenon<br>
+    Love is many things<br>
+    Love does many things<br>
+    Love heals<br>
+    Love hurts<br>
+    Love destroys
+    <span id="dots1">...</span>
+<button onclick="myFun()" id="myBtn2">Read more</button><br>
+<div id="more1">
+
+    Love is a sanctuary for the broken<br>
+    Love gives life to our memories<br>
+    Love is the reason we want to live<br>
+    It's also the reason some  itch for death<br>
+    Yet without it,we are nothing<br>
+    We don't choose who to love,<br>
+    When to start loving or when to stop<br>
+    Some say that's the beauty of love <br>
+    and just like every beautiful thing,,,<br>
+    it too has its ugly side <br>
+    See...love is the master that beckons<br>
+     and like hopeless slaves we follow blindly<br>
+    Love is a prison we've created for ourselves <br>
+    and  like devout worshippers, we've pledged our allegiance<br>
+    So let's make a toast,<br>
+    To the bleak abyss we've brought upon ourselves<br>
+    Cheers  to the false notion  we call heaven<br>
+    Here's to us, To the prisoners of love🥂...<br>
+
+
+</div>
+</div>
+         
+         <div class="column">
+            <img src="pics/mind1.jpg" style="width: 44%; height: 45%;"><br>
+My mind has been holding me hostage<br>
+And demands for no ransom<br>
+
+My heart has been estranged from my body<br>
+For a couple of months now<br>
+And the very thing that gives me life has become the bane of my existence<br>
+Sentenced me to death in a prison I created<br>
+The irony<span id="dots2">...</span>
+<button onclick="myFunct()" id="myBtn3">Read more</button><br>
+<div id="more2">
+
+So....yeah<br>
+I'm sorry, I tried<br>
+But the counting did more harm than good<br>
+So I switched to  the pain<br>
+It helped take the edge off my misery<br>
+
+I'm sorry...<br>
+I'm sorry I couldn't talk<br>
+Because there is a war that's been going on in my mind<br>
+And it's been drenching the life out of me<br>
+
+I'm sorry...<br>
+I'm sorry I couldn't see you<br>
+I couldn't bring myself to be at home at your place<br>
+Not when I'm a stranger to myself, in my own world<br>
+
+I'm sorry<br>
+I'm sorry because the realization of killing my mind is finally sinking in<br>
+Only thing is my mind won't go down<br>
+Not without having a piece of my heart<br>
+
+    </div>
+         </div>
+    <div class="row">
+
+    <div class="column">
+      <img src="pics/rose.jpg" style="width: 40%; height: 10%;"><br>
+      
+She went off to sleep<br>
+My love went off to sleep<br>
+Only this time, she won't be<br>
+
+smiling down at me when I wake<br>
+I think she finally gave up<br>
+
+Or the world made it it's mission<br>
+
+To rip my tender heart to shreds<span id="dots3">...</span>
+<button onclick="myFunction3()" id="myBtn3">Read more</button><br>
+<div id="more4">
+
+She was finally laid to rest<br>
+My love was finally laid to rest<br>
+And she took with her all the happiness I knew<br>
+All the love I ever felt<br>
+She did however leave the pain and suffering<br>
+The world let me know that it was a token,<br>
+A token of what we shared<br>
+
+I wanted to wish my love  eternal peace<br>
+I wanted to be the last to throw down a rose<br>
+I wanted to go back home and believe,<br>
+she was dancing with the angels<br>
+But my demons kept reminding me that no peace exists<br>
+So instead I sent off my Angels to keep her company<br>
+She needed them more<br>
+
+
+
+</div>
+</div>
+
+<div class="column">
+<img src="pics/rose2.jpg" style="width: 40%; height: 40%;"><br>
+<b>Prisoners of Love</b> 
+Love.....<br>
+Such a mysterious phenomenon<br>
+Love is many things<br>
+Love does many things<br>
+Love heals<br>
+Love hurts<br>
+Love destroys
+<span id="dots4">...</span>
+<button onclick="myFun4()" id="myBtn4">Read more</button><br>
+<div id="more4">
+
+Love is a sanctuary for the broken<br>
+Love gives life to our memories<br>
+Love is the reason we want to live<br>
+It's also the reason some  itch for death<br>
+Yet without it,we are nothing<br>
+We don't choose who to love,<br>
+When to start loving or when to stop<br>
+Some say that's the beauty of love <br>
+and just like every beautiful thing,,,<br>
+it too has its ugly side <br>
+See...love is the master that beckons<br>
+and like hopeless slaves we follow blindly<br>
+Love is a prison we've created for ourselves <br>
+and  like devout worshippers, we've pledged our allegiance<br>
+So let's make a toast,<br>
+To the bleak abyss we've brought upon ourselves<br>
+Cheers  to the false notion  we call heaven<br>
+Here's to us, To the prisoners of love🥂...<br>
+
+
+</div>
+  </div>
+  
+  <div class="column">
+     <img src="pics/mind1.jpg" style="width: 70%; height: 45%;"><br>
+My mind has been holding me hostage<br>
+And demands for no ransom<br>
+
+My heart has been estranged from my body<br>
+For a couple of months now<br>
+And the very thing that gives me life has become the bane of my existence<br>
+Sentenced me to death in a prison I created<br>
+The irony<span id="dots5">...</span>
+<button onclick="myFunct5()" id="myBtn5">Read more</button><br>
+<div id="more5">
+
+So....yeah<br>
+I'm sorry, I tried<br>
+But the counting did more harm than good<br>
+So I switched to  the pain<br>
+It helped take the edge off my misery<br>
+
+I'm sorry...<br>
+I'm sorry I couldn't talk<br>
+Because there is a war that's been going on in my mind<br>
+And it's been drenching the life out of me<br>
+
+I'm sorry...<br>
+I'm sorry I couldn't see you<br>
+I couldn't bring myself to be at home at your place<br>
+Not when I'm a stranger to myself, in my own world<br>
+
+I'm sorry<br>
+I'm sorry because the realization of killing my mind is finally sinking in<br>
+Only thing is my mind won't go down<br>
+Not without having a piece of my heart<br>
+
+</div>
+</div>
+
+
+</div>
+
+         </div> 
